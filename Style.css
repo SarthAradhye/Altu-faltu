@@ -1,0 +1,15 @@
+body{
+    padding: 5%;
+    font-family: 'Diphylleia', serif;
+    background-image: linear-gradient(#f703be,#ff0101);
+}
+.Container{
+    padding: 5%;
+    border: #000000 solid;
+    position: relative;
+    position: center;
+    background-color: #ffffff;
+}
+.Container a{
+    color: green;
+}
